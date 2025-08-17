@@ -1,5 +1,1 @@
-![Forecast Plot](time_series_output_plot/output.png)
-![plot](time_series_output_plot/output1.png)
-![plot](time_series_output_plot/output2.png)
-![plot](time_series_output_plot/output5.png)
-![plot](time_series_output_plot/output4.png)
+
